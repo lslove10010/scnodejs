@@ -1,1 +1,1 @@
-# scnodejs
+# scalingo-nodejs
